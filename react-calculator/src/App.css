@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: black;
+  color: white;
+  height: auto;
+  width: 270px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.btn {
+  height: auto;
+  width: 40px;
+  margin-left: 12px;
+}
